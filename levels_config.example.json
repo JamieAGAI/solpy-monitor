@@ -1,0 +1,16 @@
+{
+  "usd_cad": null,
+  "ladder": { "rungs": 3, "first_min_x_cost": 1.75, "spacing": 1.35, "under_wall_pct": 3 },
+  "coins": {
+    "EXAMPLECOIN": {
+      "coingecko": "example-coingecko-id",
+      "binance": ["EXAMPLEUSDT"],
+      "bybit": ["EXAMPLEUSDT"],
+      "coinbase": ["EXAMPLE-USD"],
+      "cost_cad": 100.00,
+      "qty": 10.0,
+      "supply": null,
+      "note": "FAKE placeholder values -- copy to levels_config.json and enter your own"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# Core (collector, watch, levels, dataset, backfill, merge, test_hypotheses)
+requests
+pandas
+numpy
+pyarrow            # parquet output in backfill.py / merge.py
+websocket-client   # optional: liquidation stream in collector.py
+# btcregime.py / fetchbars.py / fetch_data.py
+python-binance
+python-dotenv
+# dip_finder.py
+yfinance
